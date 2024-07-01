@@ -8,8 +8,8 @@
 /*Headers Rules*/
 
 #title {
-    padding: 10px;
-    background-color: lightblue;
+    padding: 15px;
+    background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     background-size: contain;
 }
@@ -24,6 +24,7 @@
 
 a {
     text-decoration: none;
+    color: #42BDEE;
 }
 
 address {
@@ -39,14 +40,16 @@ ul {
 
 table {
     border-spacing: 0;
+    text-align: left;
 }
 
 thead {
-    background-color: rgb(53, 205, 255);
+    background-color: #20A9E5;
+    color: white;
 }
 
 .azure {
-    background-color: rgb(102, 224, 224);
+    background-color: #B1E5F2;
 }
 
 .terza {
