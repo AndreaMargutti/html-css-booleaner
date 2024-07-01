@@ -20,3 +20,11 @@
 a {
     text-decoration: none;
 }
+
+figure {
+    margin: 0;
+}
+
+.tim {
+    width: 45%;
+}
