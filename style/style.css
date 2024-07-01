@@ -32,10 +32,18 @@ ul {
 
 /*Table Rules*/ 
 
+table {
+    border-spacing: 0;
+}
+
 thead {
     background-color: rgb(53, 205, 255);
 }
 
 .azure {
-    background-color: azure;
+    background-color: rgb(102, 224, 224);
+}
+
+.terza {
+    width: 50%;
 }
