@@ -1,7 +1,13 @@
 .container {
     max-width: 1000px;
     margin: 0 auto;
+    background-color: white;
 }
+
+/* body {
+    background-image: url(../img/pattern.png);
+    background-color: azure;
+} */
 
 #logo {
     width: 200px;
