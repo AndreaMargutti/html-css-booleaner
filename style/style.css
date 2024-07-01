@@ -29,3 +29,7 @@ ul {
     padding: 0;
     list-style-position: inside;
 }
+
+figure {
+    margin: 0;
+}
