@@ -3,15 +3,16 @@
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    background-color: white;
 }
 
-/* body {
-    background-image: url(../img/pattern.png);
-    background-color: azure;
-} */
-
 /*Headers Rules*/
+
+#title {
+    padding: 10px;
+    background-color: lightblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
 
 #logo {
     width: 200px;
