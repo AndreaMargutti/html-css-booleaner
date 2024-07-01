@@ -12,3 +12,11 @@
 #logo {
     width: 200px;
 }
+
+.writted-by {
+    color: lightslategray;
+}
+
+a {
+    text-decoration: none;
+}
