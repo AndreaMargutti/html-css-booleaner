@@ -30,6 +30,12 @@ ul {
     list-style-position: inside;
 }
 
-figure {
-    margin: 0;
+/*Table Rules*/ 
+
+thead {
+    background-color: rgb(53, 205, 255);
+}
+
+.azure {
+    background-color: azure;
 }
