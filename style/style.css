@@ -1,3 +1,5 @@
+/*Container Rules*/
+
 .container {
     max-width: 1100px;
     margin: 0 auto;
@@ -8,6 +10,8 @@
     background-image: url(../img/pattern.png);
     background-color: azure;
 } */
+
+/*Headers Rules*/
 
 #logo {
     width: 200px;
