@@ -25,6 +25,10 @@ a {
     text-decoration: none;
 }
 
+address {
+    font-size: 0.8em;
+}
+
 ul {
     padding: 0;
     list-style-position: inside;
