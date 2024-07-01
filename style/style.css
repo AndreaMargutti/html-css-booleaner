@@ -51,3 +51,23 @@ thead {
 .terza {
     width: 50%;
 }
+
+/*Also Like Rules*/
+
+.also-like {
+    width: 400px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.also-like2 {
+    width: 400px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0;
+}
